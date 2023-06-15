@@ -1,4 +1,4 @@
-# Project Name
+# Project Name : Blog Site
 
 This project is a Django web application that allows users to create, view, and modify posts with comments.
 
